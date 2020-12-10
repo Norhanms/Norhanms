@@ -7,7 +7,7 @@
 [<img align='left' width='22px' src='https://github.com/edent/SuperTinyIcons/blob/master/images/svg/html5.svg' alt='html5'/>]
 [<img align='left' width='22px' src='https://github.com/edent/SuperTinyIcons/blob/master/images/svg/sass.svg' alt='sass'/>]
 [<img align='left' width='22px' src='https://img.icons8.com/color/48/000000/nodejs.png' alt='nodejs'/>]
-[<img align='left' width='22px' src='https://github.com/edent/SuperTinyIcons/blob/master/images/svg/django.svg' alt='django'/>]
+[<img align='left' width='22px' src='https://github.com/edent/SuperTinyIcons/blob/master/images/svg/djangoproject.svg' alt='django'/>]
 
 ## Find me on
 [<img align='left' width='22px' src='https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg' alt='linkedin'/>][linkedin]
