@@ -10,6 +10,7 @@
 <ul>
   <li>:school: Faculty of Computers and Informatics, Computer Science department</li>
 </ul>
+
 ## Find me on
 [<img align='left' width='22px' src='https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg' alt='linkedin'/>][linkedin]
 [<img align='left' width='22px' src='https://github.com/edent/SuperTinyIcons/blob/master/images/svg/codepen.svg' alt='codepen'/>][codepen]
