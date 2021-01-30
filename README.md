@@ -2,7 +2,7 @@
  Full stack web developer who learns every day something new. I am learning the full stack web technologies by learning from my own coding bootcamp in which I collect the learning tutorials from articles, youtube tutorials, online courses platforms such as udemy and corsera. I found this is the best way to learn. Now I am focusing on learning Node js and python/django also I am improving my javascript skills.
 
 ## Status
- <img src="https://www.flaticon.com/svg/vstatic/svg/64/64786.svg?token=exp=1612025321~hmac=421541a433efb8403697b9f14a3ccda8">
+
  ![GitHub Streak]("https://github-readme-streak-stats.herokuapp.com/?user=Norhanms&theme=algolia")
 
 ## Skills 
