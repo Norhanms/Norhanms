@@ -5,9 +5,10 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Norhanms&theme=algolia) 
 
 ## Skills 
-<img  width='30px' src='https://github.com/edent/SuperTinyIcons/blob/master/images/svg/python.svg' alt='python'/> <img  width='30px' src='https://github.com/edent/SuperTinyIcons/blob/master/images/svg/javascript.svg' alt='javascript'/> 
-<img  width='30px' src='https://github.com/edent/SuperTinyIcons/blob/master/images/svg/typescript.svg' alt='typescript'/>
-<img  width='30px' src='https://github.com/edent/SuperTinyIcons/blob/master/images/svg/react.svg' alt='react'/> <img  width='30px' src='https://github.com/edent/SuperTinyIcons/blob/master/images/svg/html5.svg' alt='html5'/> <img  width='30px' src='https://github.com/edent/SuperTinyIcons/blob/master/images/svg/sass.svg' alt='sass'/><img  width='30px' src='https://img.icons8.com/color/48/000000/nodejs.png' alt='nodejs'/> <img  width='30px' src='https://github.com/edent/SuperTinyIcons/blob/master/images/svg/djangoproject.svg' alt='django'/>
+- Programming Languages: Python, SQL, Javascript
+- Data Engineering Tools : DBT
+- Libraries: pandas, matplotlib, numpy
+- Data Visualization tools: power BI, tableau
 
 
 ## Find me on
