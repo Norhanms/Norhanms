@@ -1,12 +1,12 @@
-###  Hi, I am Norhan. I am a mid-level fullstack developer :globe_with_meridians: [website]
- Full stack web developer who learns every day something new. I am learning the full stack web technologies by learning from my own coding bootcamp in which I collect the learning tutorials from articles, youtube tutorials, online courses platforms such as udemy and corsera. I found this is the best way to learn. Now I am focusing on learning Node js and python/django also I am improving my javascript skills.
+###  Hi, I am Norhan. I am a data engineer :globe_with_meridians: [website]
+Data Engineer with a strong Computer Science foundation and end-to-end expertise across the full data lifecycle. Skilled in building robust pipeline architectures, orchestrating scalable data workflows, and designing optimized cloud data warehouses using SQL and Python. Leverages a unique background in programming instruction and analytics to bridge the gap between heavy infrastructure and business impact, easily adapting to roles across Data Engineering, Data Analytics Engineering, and Data Analysis. Proven track record of delivering clean, maintainable code to support both reliable data pipelines and actionable insights.
 
 ## Status
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Norhanms&theme=algolia) 
 
 ## Skills 
 - Programming Languages: Python, SQL, Javascript
-- Data Engineering Tools : DBT
+- Data Engineering Tools : DBT, Apache Airflow, MS Fabric
 - Libraries: pandas, matplotlib, numpy
 - Data Visualization tools: power BI, tableau
 
