@@ -11,7 +11,3 @@ Data Engineer with a strong Computer Science foundation and end-to-end expertise
 - Data Visualization tools: power BI, tableau
 
 
-## Find me on
-[<img align='left' width='22px' src='https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg' alt='linkedin'/>][linkedin]
-[<img align='left' width='22px' src='https://github.com/edent/SuperTinyIcons/blob/master/images/svg/codepen.svg' alt='codepen'/>][codepen]
-
