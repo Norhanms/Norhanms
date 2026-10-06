@@ -1,4 +1,4 @@
-###  Hi, I am Norhan. I am a data engineer :globe_with_meridians: [website]
+###  Hi, I am Norhan. I am a data engineer :globe_with_meridians: 
 Data Engineer with a strong Computer Science foundation and end-to-end expertise across the full data lifecycle. Skilled in building robust pipeline architectures, orchestrating scalable data workflows, and designing optimized cloud data warehouses using SQL and Python. Leverages a unique background in programming instruction and analytics to bridge the gap between heavy infrastructure and business impact, easily adapting to roles across Data Engineering, Data Analytics Engineering, and Data Analysis. Proven track record of delivering clean, maintainable code to support both reliable data pipelines and actionable insights.
 
 ## Status
