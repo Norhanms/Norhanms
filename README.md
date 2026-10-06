@@ -15,6 +15,3 @@ Data Engineer with a strong Computer Science foundation and end-to-end expertise
 [<img align='left' width='22px' src='https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg' alt='linkedin'/>][linkedin]
 [<img align='left' width='22px' src='https://github.com/edent/SuperTinyIcons/blob/master/images/svg/codepen.svg' alt='codepen'/>][codepen]
 
-[website]: https://norhanms.github.io/
-[linkedin]: https://www.linkedin.com/in/norhanms/
-[codepen]: https://codepen.io/norhanms
